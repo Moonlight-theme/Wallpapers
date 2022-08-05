@@ -26,15 +26,15 @@ A collection of some minimalistic moonlight themed wallpapers...
 <div style=" display: flex; justify-content: space-between;">
 <br>
 <p>
-<img width="300px" alt="Abod1960" src="https://github.com/Moonlight-color-theme/Wallpapers/blob/main/Moonlight%20wallpapers/moonlight%20wallpaper%20%20%231.png?raw=true">
+<img width="300px" alt="wallpaper" src="https://github.com/Moonlight-color-theme/Wallpapers/blob/main/Moonlight%20wallpapers/moonlight%20wallpaper%20%20%231.png?raw=true">
 </p>
 <br>
 <p>
-<img width="300px" alt="Abod1960" src="https://github.com/Moonlight-color-theme/Wallpapers/blob/main/Moonlight%20wallpapers/moonlight%20wallpaper%20%20%232.png?raw=true">
+<img width="300px" alt="wallpaper" src="https://github.com/Moonlight-color-theme/Wallpapers/blob/main/Moonlight%20wallpapers/moonlight%20wallpaper%20%20%232.png?raw=true">
 </p>
 <br>
 <p>
-<img width="300px" alt="Abod1960" src="https://github.com/Moonlight-color-theme/Wallpapers/blob/main/Moonlight%20wallpapers/moonlight%20wallpaper%20%20%233.png?raw=true">
+<img width="300px" alt="wallpaper" src="https://github.com/Moonlight-color-theme/Wallpapers/blob/main/Moonlight%20wallpapers/moonlight%20wallpaper%20%20%233.png?raw=true">
 </p>
 </div>
 
