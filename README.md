@@ -17,6 +17,9 @@
 
 A collection of some minimalistic moonlight themed wallpapers...
 
+[💠 Download 25 Wallpapers](https://github.com/Moonlight-color-theme/Wallpapers/releases/download/1.0/Moonlight.wallpapers.zip)|
+--- |
+
 <h2 style="display: flex; flex-direction: row; justify-content: start;"> <img width="15px" alt="Abod1960" src="https://i.imgur.com/47tcmEc.png"> Utilization</h2>
 
 1. use it as you like 👉
