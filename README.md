@@ -2,7 +2,7 @@
     <img src="https://i.imgur.com/nVXWcZJ.png" width = 150rem/>
 </p>
 <br>
-<h2 align="center"> <b>Moonlightic Wallpapers</b> </h2>
+<h2 align="center"> <b>Moonlight Wallpapers</b> </h2>
 <p align="center">"Wallpapers" 🏕
 </p>
 
